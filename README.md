@@ -1,2 +1,2 @@
-# Final-project
-final class project for cs 0134
+# cs0134_project
+Class project for cs0134
